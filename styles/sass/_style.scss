@@ -31,11 +31,11 @@ h4{
 
 @font-face {
     font-family:si;
-    src: url('../font/socicon/socicon.eot');
-    src: url('../font/socicon/socicon.eot?#iefix') format('embedded-opentype'),
-         url('../font/socicon/socicon.woff') format('woff'),
-         url('../font/socicon/socicon.ttf') format('truetype'),
-         url('../font/socicon/socicon.svg#siregular') format('svg');
+    src: url('/font/socicon/socicon.eot');
+    src: url('/font/socicon/socicon.eot?#iefix') format('embedded-opentype'),
+         url('/font/socicon/socicon.woff') format('woff'),
+         url('/font/socicon/socicon.ttf') format('truetype'),
+         url('/font/socicon/socicon.svg#siregular') format('svg');
     font-weight:400;
     font-style:normal;
 }

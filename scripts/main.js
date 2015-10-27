@@ -1,5 +1,5 @@
 require.config({
-	'baseUrl': '/js/lib',
+	'baseUrl': '/scripts/lib',
 	'paths': {
 		'jquery' : 'jquery-1.11.0.min',
 		'bPopup': 'jquery.bpopup.min',
