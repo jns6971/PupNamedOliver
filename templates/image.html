@@ -1,0 +1,11 @@
+<div class="block single">
+    <div class="image unviewed unviewed" style="background-image: url('{{= data.thumbUrl }}');">
+        <div class="content opacity" onclick="pop('#{{= data.modalId }}')">
+            <h2>{{= data.title }}</h2>
+            <h3>{{= data.description }}</h3>
+        </div>
+        <div id="{{= data.modalId }}" class="modal">
+            <div class="modal-image" style="background-image: url('{{= data.imageUrl }}');"></div>
+        </div>
+    </div>
+</div>

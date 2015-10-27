@@ -1,0 +1,17 @@
+<div class="block single">
+    <div class="image unviewed unviewed">
+        <video class="video" loop>
+            {{
+                for(var i=0; i<data.videoUrls.length; i++){ }}
+                    <source src="{{= data.videoUrls[i].url }}" type="{{= data.videoUrls[i].type }}" />
+                {{ }
+            }}
+            Your browser does not support the video tag.
+        </video>
+        <div class="content">
+            <h2>{{= data.title }}</h2>
+            <h3>{{= data.description }}</h3>
+            <div class="video-overlay"></div>
+        </div>
+    </div>
+</div>
