@@ -53,6 +53,11 @@ define([
         this.$document = $(document);
     };
 
+    // get oliver's feeds from local json
+    Oliver.prototype.getData = function() {
+        this.data = $.parseJSON($('#oliverData').html());
+    };
+
     Oliver.prototype.render = function() {
         this.appendImages();
         this.animateImages();
@@ -60,7 +65,8 @@ define([
 
     //append next set of images and 
 	Oliver.prototype.appendImages = function() {
-        var html = "",
+        var oliverCollection = [],
+            $oliverItem,
             maxIndex = this.options.lazyLoadCount + this.options.imageLoadIndex;
 
         //load two less items on initial load because logo takes up two content spots
@@ -76,17 +82,20 @@ define([
 
         // generate html for the next set of images
         for(this.options.imageLoadIndex; this.options.imageLoadIndex<maxIndex; this.options.imageLoadIndex++){
-
+            //get feed's model id based on load index
             this.data.feeds[this.options.imageLoadIndex].modalId = 'modal' + this.options.imageLoadIndex;
-            html += this.templates[this.data.feeds[this.options.imageLoadIndex].type](this.data.feeds[this.options.imageLoadIndex]);
+
+            $oliverItem = $(this.templates[this.data.feeds[this.options.imageLoadIndex].type](this.data.feeds[this.options.imageLoadIndex]));
+
+            if(this.data.feeds[this.options.imageLoadIndex].type.toLowerCase() === 'video'){
+                console.log('this video: ',$oliverItem);
+                this.addVideoEvent($oliverItem);
+            }
+
+            oliverCollection.push($oliverItem);
         }
 
-        $('.body-container').append(html);
-	};
-
-    // get oliver's feeds from local json
-	Oliver.prototype.getData = function() {
-		this.data = $.parseJSON($('#oliverData').html());
+        $('.body-container').append(oliverCollection);
 	};
 
     // add scroll listeners to:
@@ -102,6 +111,7 @@ define([
         this.$window.scroll(this.animateScroll);
         this.$window.scroll(this.lazyLoadScroll);
     };
+
 
     //remove scroll listeners
     Oliver.prototype.removeListeners = function() {
@@ -189,22 +199,22 @@ define([
     };
 
     // TODO: import video handling code from main.js
-    Oliver.prototype.videoHandler = function(){
-        // this.videoHover = function(){
-        //     var video = $(this).siblings('video')[0];
-        // }    
+    Oliver.prototype.addVideoEvent = function($item){
+        var $content = $item.find('.content');
+        var video = $content.siblings('.video')[0];
 
-        // $('.content').hover(function(){
-        //     var video = $(this).siblings('video')[0];
-        //     if(video != undefined){
-        //         $(this).siblings('video')[0].play();
-        //     }
-        // },function(){
-        //     var video = $(this).siblings('video')[0];
-        //     if(video != undefined){
-        //         $(this).siblings('video')[0].pause();
-        //     }
-        // });
+        console.log('$content: ',$content);
+        console.log('video: ',video);
+
+        $content.hover(function(){
+            if(video != undefined){
+                video.play();
+            }
+        },function(){
+            if(video != undefined){
+                video.pause();
+            }
+        });
     };
 
 	return new Oliver();
