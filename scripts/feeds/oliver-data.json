@@ -2,6 +2,238 @@
 	"feeds": [
         {
             "type": "image",
+            "thumbUrl": "img/small/oliver105.jpg",
+            "imageUrl": "img/oliver105.jpg",
+            "title": "75 in Febuary",
+            "description": "Oliver is loving this weather today; so much so that he is falling asleep in the sun."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver104.jpg",
+            "imageUrl": "img/oliver104.jpg",
+            "title": "Malibu Hike",
+            "description": "We went for a hike today, and found this cool tree."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver103.jpg",
+            "imageUrl": "img/oliver103.jpg",
+            "title": "Oliver Being Cute",
+            "description": "This guy was giving me the cutest face, but when I went to take this picture I got this face."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver102.jpg",
+            "imageUrl": "img/oliver102.jpg",
+            "title": "When Jordan Instagrams...",
+            "description": "Oliver looking ferocious even though it was just a yawn."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver101.jpg",
+            "imageUrl": "img/oliver101.jpg",
+            "title": "2016 New Years",
+            "description": "Celebrating in San Deigo."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver100.jpg",
+            "imageUrl": "img/oliver100.jpg",
+            "title": "Ali & Oliver in San Diego",
+            "description": "Nice walk at the dog beach in Ocean Beach, San Diego."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver99.jpg",
+            "imageUrl": "img/oliver99.jpg",
+            "title": "San Diego Dog Beach",
+            "description": "Beautiful New Years Day at the dog beach in San Diego."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver98.jpg",
+            "imageUrl": "img/oliver98.jpg",
+            "title": "La Jolla Cove",
+            "description": "Jordan and Oliver hanging out at La Jolla."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver97.jpg",
+            "imageUrl": "img/oliver97.jpg",
+            "title": "Seals at La Jolla Cove",
+            "description": "Oliver hanging out with some seals!"
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver96.jpg",
+            "imageUrl": "img/oliver96.jpg",
+            "title": "Ali's New Camera",
+            "description": "The first instant picture taken with my Christmas gift from Jordan's parents (an Instax Mini 8)."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver95.jpg",
+            "imageUrl": "img/oliver95.jpg",
+            "title": "Family Christmas Photo",
+            "description": "Happy family in our 'ugly' sweaters for Christmas Eve!"
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver94.jpg",
+            "imageUrl": "img/oliver94.jpg",
+            "title": "Oliver's New Ornament",
+            "description": "We went to a Pet Store and adoption agency reopening this weekend and got a ton of free samples of grain free dog food. We also got his picture taken and made it into an ornament for out tree. It was overexposed, but cute nonetheless."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver93.jpg",
+            "imageUrl": "img/oliver93.jpg",
+            "title": "",
+            "description": "It's starting to look a lot like Christmas."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver92.jpg",
+            "imageUrl": "img/oliver92.jpg",
+            "title": "4 Years Old",
+            "description": "Oliver finally got his birthday gift in the mail! (It's all about that bottom left)"
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver91.jpg",
+            "imageUrl": "img/oliver91.jpg",
+            "title": "Goofing on a Hike",
+            "description": "Oliver will have none of your shenanigans."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver90.jpg",
+            "imageUrl": "img/oliver90.jpg",
+            "title": "Hollywood Sign",
+            "description": "Colleen, Oliver and me viewing the Hollywood sign!"
+        },
+        {
+            "type": "video",
+            "title": "Goofing Around",
+            "description": "Daddy, doggy dance.",
+            "videoUrls": [
+                {
+                    "type": "video/mp4",
+                    "url": "vid/oliver_vid_7.mp4"
+                },
+                {
+                    "type": "video/ogg",
+                    "url": "vid/oliver_vid_7.ogv"
+                },
+                {
+                    "type": "video/webm",
+                    "url": "vid/oliver_vid_7.webm"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver89.jpg",
+            "imageUrl": "img/oliver89.jpg",
+            "title": "Mamma's Boy",
+            "description": "Someone got a big kiss from Mommy."
+        },
+        {
+            "type": "video",
+            "title": "Dinner Time is Play Time",
+            "description": "This is how I get him to eat his dinner.",
+            "videoUrls": [
+                {
+                    "type": "video/mp4",
+                    "url": "vid/oliver_vid_6.mp4"
+                },
+                {
+                    "type": "video/ogg",
+                    "url": "vid/oliver_vid_6.ogv"
+                },
+                {
+                    "type": "video/webm",
+                    "url": "vid/oliver_vid_6.webm"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver88.jpg",
+            "imageUrl": "img/oliver88.jpg",
+            "title": "Down in the Grotto",
+            "description": "Hiking the Grotto in the Santa Monica Mountains."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver87.jpg",
+            "imageUrl": "img/oliver87.jpg",
+            "title": "",
+            "description": "Walking under the PCH."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver86.jpg",
+            "imageUrl": "img/oliver86.jpg",
+            "title": "Watching Surfers",
+            "description": "Oliver checking out the ocean."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver85.jpg",
+            "imageUrl": "img/oliver85.jpg",
+            "title": "Big Sur Beach",
+            "description": "Random beach on the PCH."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver84.jpg",
+            "imageUrl": "img/oliver84.jpg",
+            "title": "Big Sur",
+            "description": "Jordan and Oliver looking badass at the top of a rock overlooking the ocean."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver83.jpg",
+            "imageUrl": "img/oliver83.jpg",
+            "title": "Santa Cruz",
+            "description": "Walking around the rocks at Natural Bridge State Beach Park."
+        },
+        {
+            "type": "video",
+            "title": "",
+            "description": "Happy National Dog Day, Oliver!",
+            "videoUrls": [
+                {
+                    "type": "video/mp4",
+                    "url": "vid/oliver_vid_5.mp4"
+                },
+                {
+                    "type": "video/ogg",
+                    "url": "vid/oliver_vid_5.ogv"
+                },
+                {
+                    "type": "video/webm",
+                    "url": "vid/oliver_vid_5.webm"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver82.jpg",
+            "imageUrl": "img/oliver82.jpg",
+            "title": "Bay Bridge, SF",
+            "description": "Me and my best bud hanging out by the Bay Bridge."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver81.jpg",
+            "imageUrl": "img/oliver81.jpg",
+            "title": "",
+            "description": "Golden Gate Bridge at sunset."
+        },
+        {
+            "type": "image",
             "thumbUrl": "img/small/oliver80.jpg",
             "imageUrl": "img/oliver80.jpg",
             "title": "Follow Your Nose",
@@ -32,8 +264,8 @@
             "type": "image",
             "thumbUrl": "img/small/oliver76.jpg",
             "imageUrl": "img/oliver76.jpg",
-            "title": "Oliver enjoying the view",
-            "description": ""
+            "title": "",
+            "description": "Oliver enjoying the view."
         },
         {
             "type": "image",
@@ -106,10 +338,6 @@
             "title": "St. Patrick's Day 2015",
             "description": "This little St. Paddy's Day pup.."
         },
-
-
-
-
         {
             "type": "image",
             "thumbUrl": "img/small/oliver63.jpg",
