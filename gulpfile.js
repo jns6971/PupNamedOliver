@@ -26,8 +26,5 @@ gulp.task('watch', function() {
     gulp.watch(sassSources,['styles']);
 });
 
-gulp.task('build', function() ){
-    
-});
 
 gulp.task('default', ['styles', 'watch']);
