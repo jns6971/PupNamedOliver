@@ -1,0 +1,21 @@
+.body-container {
+  padding: 10px;
+  min-width: 679px;
+  text-align: center; }
+
+.modal {
+  display: none;
+  overflow: hidden; }
+
+.modal-image {
+  height: 640px;
+  width: 640px;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden; }
+
+@media only screen and (max-device-width: 640px) {
+  .body-container {
+    padding: 0px;
+    width: 90%;
+    margin: 0 auto; } }

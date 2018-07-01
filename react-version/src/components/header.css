@@ -1,0 +1,30 @@
+.content.header {
+  color: black; }
+
+.content.header * {
+  position: absolute;
+}
+
+.block.yellow {
+  background-color: #FFFF00; }
+
+.block.double {
+  width: 620px; }
+
+
+.header h3 {
+  text-transform: uppercase;
+  opacity: 1;
+  width: auto;
+  padding: 0;
+  position: relative;
+  margin: 4px 2.5px 0 0;
+  font-weight: bold; }
+
+.soc {
+  position: absolute;
+  top: 5px;
+  right: 5px; }
+
+.soc li {
+  position: relative; }

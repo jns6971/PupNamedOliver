@@ -1,5 +1,5 @@
 {
-	"feeds": [
+    "feeds": [
         {
             "type": "image",
             "thumbUrl": "img/small/oliver105.jpg",
@@ -33,7 +33,7 @@
             "thumbUrl": "img/small/oliver101.jpg",
             "imageUrl": "img/oliver101.jpg",
             "title": "2016 New Years",
-            "description": "Celebrating in San Deigo."
+            "description": "Celebrating in San Deigo"
         },
         {
             "type": "image",
@@ -514,179 +514,179 @@
             "title": "Oliver's Paws",
             "description": "Love these dirty paws."
         },
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver41.jpg",
-			"imageUrl": "img/oliver41.jpg",
-			"title": "Beer, Bob's, and Oliver",
-			"description": "The best way to enjoy a relaxing weekend."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver40.jpg",
-			"imageUrl": "img/oliver40.jpg",
-			"title": "Google Hangout",
-			"description": "Oliver videochatting with Ali while she is away in NYC."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver39.jpg",
-			"imageUrl": "img/oliver39.jpg",
-			"title": "Jogging to the Park",
-			"description": "Ali and Oliver hanging out at the park after a long run."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver38.jpg",
-			"imageUrl": "img/oliver38.jpg",
-			"title": "Lazy Saturday",
-			"description": "Oliver enjoy time with Ali and Jordan all day Saturday."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver37.jpg",
-			"imageUrl": "img/oliver37.jpg",
-			"title": "Graduation Toy",
-			"description": "Oliver earned this in his Good Manners class."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver36.jpg",
-			"imageUrl": "img/oliver36.jpg",
-			"title": "Cat Dog",
-			"description": "Though Oliver is a dog, he perches on the couch like a cat."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver35.jpg",
-			"imageUrl": "img/oliver35.jpg",
-			"title": "",
-			"description": ""
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver21.jpg",
-			"imageUrl": "img/oliver21.jpg",
-			"title": "Happy Spring!",
-			"description": "Happy First Day of Spring!"
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver35.jpg",
-			"imageUrl": "img/oliver35.jpg",
-			"title": "Puppy Love",
-			"description": "Ali showing Oliver some PDA."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver24.jpg",
-			"imageUrl": "img/oliver24.jpg",
-			"title": "Beach Day",
-			"description": "Jordan and Oliver happy to be at the beach again after a cold winter."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver25.jpg",
-			"imageUrl": "img/oliver25.jpg",
-			"title": "Taking a Strole",
-			"description": "Ali walking her favorite pup at the beach."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver23.jpg",
-			"imageUrl": "img/oliver23.jpg",
-			"title": "Little Family",
-			"description": "Ali, Jordan and Oliver taking a trip to the Castle Island."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver22.jpg",
-			"imageUrl": "img/oliver22.jpg",
-			"title": "Windy Day",
-			"description": "Oliver is so majestic."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver34.jpg",
-			"imageUrl": "img/oliver34.jpg",
-			"title": "Ali the Dog Whisper",
-			"description": "Dog sitting Nicki and Waffle this weekend, Oliver needs to share the attention."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver33.jpg",
-			"imageUrl": "img/oliver33.jpg",
-			"title": "Tug-O-War",
-			"description": "Oliver loves playing with Charlie at the park."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver32.jpg",
-			"imageUrl": "img/oliver32.jpg",
-			"title": "Sunday Fun",
-			"description": "Oliver's favorite days are when we stay home all day and play with him."
-		},
-		{
-			"type": "video",
-			"title": "Treat Crazy!",
-			"description": "Oliver loves this treat so much he doesn't know how to eat it!",
-			"videoUrls": [
-				{
-					"type": "video/mp4",
-					"url": "vid/oliver_vid_3.mp4"
-				},
-				{
-					"type": "video/ogg",
-					"url": "vid/oliver_vid_3.ogv"
-				},
-				{
-					"type": "video/webm",
-					"url": "vid/oliver_vid_3.webm"
-				}
-			]
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver31.jpg",
-			"imageUrl": "img/oliver31.jpg",
-			"title": "Oliver Posing",
-			"description": "He is always posing for an epic pic."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver30.jpg",
-			"imageUrl": "img/oliver30.jpg",
-			"title": "The name's Oliver",
-			"description": "And he has a lisence to kill!"
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver29.jpg",
-			"imageUrl": "img/oliver29.jpg",
-			"title": "Beagle Buddies",
-			"description": "Oliver and MJ chilling after a trip to the park."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver28.jpg",
-			"imageUrl": "img/oliver28.jpg",
-			"title": "Oliver and MJ",
-			"description": "Oliver keeping MJ company while we dog sit him."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver26.jpg",
-			"imageUrl": "img/oliver26.jpg",
-			"title": "St. Patrick's Day",
-			"description": "Oliver is all blinged up for St. Patrick's Day."
-		},
-		{
-			"type": "image",
-			"thumbUrl": "img/small/oliver27.jpg",
-			"imageUrl": "img/oliver27.jpg",
-			"title": "Little Dumbo",
-			"description": "He can fly with those huge ears!"
-		},
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver41.jpg",
+            "imageUrl": "img/oliver41.jpg",
+            "title": "Beer, Bob's, and Oliver",
+            "description": "The best way to enjoy a relaxing weekend."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver40.jpg",
+            "imageUrl": "img/oliver40.jpg",
+            "title": "Google Hangout",
+            "description": "Oliver videochatting with Ali while she is away in NYC."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver39.jpg",
+            "imageUrl": "img/oliver39.jpg",
+            "title": "Jogging to the Park",
+            "description": "Ali and Oliver hanging out at the park after a long run."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver38.jpg",
+            "imageUrl": "img/oliver38.jpg",
+            "title": "Lazy Saturday",
+            "description": "Oliver enjoy time with Ali and Jordan all day Saturday."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver37.jpg",
+            "imageUrl": "img/oliver37.jpg",
+            "title": "Graduation Toy",
+            "description": "Oliver earned this in his Good Manners class."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver36.jpg",
+            "imageUrl": "img/oliver36.jpg",
+            "title": "Cat Dog",
+            "description": "Though Oliver is a dog, he perches on the couch like a cat."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver35.jpg",
+            "imageUrl": "img/oliver35.jpg",
+            "title": "",
+            "description": ""
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver21.jpg",
+            "imageUrl": "img/oliver21.jpg",
+            "title": "Happy Spring!",
+            "description": "Happy First Day of Spring!"
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver35.jpg",
+            "imageUrl": "img/oliver35.jpg",
+            "title": "Puppy Love",
+            "description": "Ali showing Oliver some PDA."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver24.jpg",
+            "imageUrl": "img/oliver24.jpg",
+            "title": "Beach Day",
+            "description": "Jordan and Oliver happy to be at the beach again after a cold winter."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver25.jpg",
+            "imageUrl": "img/oliver25.jpg",
+            "title": "Taking a Strole",
+            "description": "Ali walking her favorite pup at the beach."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver23.jpg",
+            "imageUrl": "img/oliver23.jpg",
+            "title": "Little Family",
+            "description": "Ali, Jordan and Oliver taking a trip to the Castle Island."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver22.jpg",
+            "imageUrl": "img/oliver22.jpg",
+            "title": "Windy Day",
+            "description": "Oliver is so majestic."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver34.jpg",
+            "imageUrl": "img/oliver34.jpg",
+            "title": "Ali the Dog Whisper",
+            "description": "Dog sitting Nicki and Waffle this weekend, Oliver needs to share the attention."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver33.jpg",
+            "imageUrl": "img/oliver33.jpg",
+            "title": "Tug-O-War",
+            "description": "Oliver loves playing with Charlie at the park."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver32.jpg",
+            "imageUrl": "img/oliver32.jpg",
+            "title": "Sunday Fun",
+            "description": "Oliver's favorite days are when we stay home all day and play with him."
+        },
+        {
+            "type": "video",
+            "title": "Treat Crazy!",
+            "description": "Oliver loves this treat so much he doesn't know how to eat it!",
+            "videoUrls": [
+                {
+                    "type": "video/mp4",
+                    "url": "vid/oliver_vid_3.mp4"
+                },
+                {
+                    "type": "video/ogg",
+                    "url": "vid/oliver_vid_3.ogv"
+                },
+                {
+                    "type": "video/webm",
+                    "url": "vid/oliver_vid_3.webm"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver31.jpg",
+            "imageUrl": "img/oliver31.jpg",
+            "title": "Oliver Posing",
+            "description": "He is always posing for an epic pic."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver30.jpg",
+            "imageUrl": "img/oliver30.jpg",
+            "title": "The name's Oliver",
+            "description": "And he has a lisence to kill!"
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver29.jpg",
+            "imageUrl": "img/oliver29.jpg",
+            "title": "Beagle Buddies",
+            "description": "Oliver and MJ chilling after a trip to the park."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver28.jpg",
+            "imageUrl": "img/oliver28.jpg",
+            "title": "Oliver and MJ",
+            "description": "Oliver keeping MJ company while we dog sit him."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver26.jpg",
+            "imageUrl": "img/oliver26.jpg",
+            "title": "St. Patrick's Day",
+            "description": "Oliver is all blinged up for St. Patrick's Day."
+        },
+        {
+            "type": "image",
+            "thumbUrl": "img/small/oliver27.jpg",
+            "imageUrl": "img/oliver27.jpg",
+            "title": "Little Dumbo",
+            "description": "He can fly with those huge ears!"
+        },
         {
             "type": "image",
             "thumbUrl": "img/small/oliver20.jpg",
@@ -865,5 +865,5 @@
             "title": "Doggy-sitting",
             "description": "Picture sent from the doggy sitter when Jordan and Ali were in Ohio."
         }
-	]
+    ]
 }

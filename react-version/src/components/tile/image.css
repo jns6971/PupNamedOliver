@@ -1,0 +1,12 @@
+.image {
+  background-position: center;
+  background-size: cover;
+  cursor: pointer;
+  height: 100%;
+  width: 100%;
+  display: none; }
+
+img{
+	display: block;
+	width: 100%;
+}
